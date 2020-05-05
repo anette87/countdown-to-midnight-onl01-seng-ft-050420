@@ -17,4 +17,4 @@ end
   "HAPPY NEW YEAR!"
 end
 
-puts countdown(12)
+puts countdown_with_sleep(5)
