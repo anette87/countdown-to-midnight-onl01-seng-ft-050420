@@ -11,4 +11,4 @@ end
 
 
 
-puts countdown
+puts countdown(12)
